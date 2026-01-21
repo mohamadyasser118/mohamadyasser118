@@ -4,7 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Mohamad+Yasser!;" />
 </h1>
 
-<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/058b59fc-5ca3-4c40-8747-6a47287cc0d5" />
+<p align="center">
+  <img src="Header.gif" width="100%" />
+</p>
 
 
 ### An AI Engineer interested in ML, NLP, and Systems, passionate about building beautiful.
